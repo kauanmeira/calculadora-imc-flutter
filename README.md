@@ -1,6 +1,6 @@
 # calculadora_imc
 
-Calculadora de IMC ( Índice de massa corporal)
+Calculadora de IMC ( Índice de massa corporal), aplicação consiste em um aplicativo mobile, onde se é digitado peso e altura de uma pessoa, e ao clicar no botão calcular retorna se o IMC está Abaixo do Peso, Peso Ideal, Levemente Acima do Peso, Obesidade I, Obesidade II ou Obesidade III.
 
 
 ![image](https://github.com/kauanmeira/calculadora-imc-flutter/assets/114404211/d716c44e-691e-429d-ab53-25b6b4a1013e)
